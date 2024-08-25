@@ -1,0 +1,10 @@
+/* .Ticketnum{
+    font-size: 3rem;
+} */
+
+
+.Ticketnum {
+    font-size: 3rem;
+    color: #650e8e;
+    margin: 0 10px;
+}

@@ -1,0 +1,21 @@
+/* .Ticket{
+    border: 1px solid pink;
+    border-radius: 24px;
+    width: 300px;
+    margin-bottom: 10px;
+} */
+
+
+.Ticket {
+    border: 1px solid #67126c;
+    border-radius: 24px;
+    padding: 15px;
+    background-color: #ffe4e1;
+    margin-bottom: 20px;
+}
+
+.Ticket p {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #761b9f;
+}
